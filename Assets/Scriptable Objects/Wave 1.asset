@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baf88e3f8d1ca4b44bfe399399219aa3, type: 3}
+  m_Name: Wave 1
+  m_EditorClassIdentifier: 
+  zombies:
+  - {fileID: 4068743995682008001, guid: bb599db39544ba242af0a30a0e4a8347, type: 3}
+  - {fileID: 5711730135761995008, guid: cd3023f737aa57640b1dfd5a0bc31c14, type: 3}
+  regularAmount: 10
+  giantAmount: 10
